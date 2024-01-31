@@ -9,3 +9,4 @@ setTimeout(function timeout() {
 }, 5000);
 
 console.log("Welcome to loupe.");
+ 
