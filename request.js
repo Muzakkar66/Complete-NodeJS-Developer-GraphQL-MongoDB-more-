@@ -7,5 +7,5 @@ axios.get('http://www.google.com').then((response) => {
     console.log(err);
 })
 .then(() => {
-    console.log('All Done!');
+    console.log('All Done..!');
 })
