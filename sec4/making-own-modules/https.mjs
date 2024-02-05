@@ -9,4 +9,4 @@ function request(url, data) {
 }
 const final = request('https://google.com', 'hello this is the data')
 
-console.log(final)
+console.log(final) 
